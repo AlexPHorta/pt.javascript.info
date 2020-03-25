@@ -1,7 +1,7 @@
 
 # Reescreva com arrow functions
 
-Substitua Funções de Expressão por arrow functions no seguinte código:
+Substitua Expressões de função por arrow functions no seguinte código:
 
 ```js run
 function ask(question, yes, no) {
